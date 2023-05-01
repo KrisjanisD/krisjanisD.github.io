@@ -6,6 +6,8 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   background-color: #222;
+  text-decoration: none;
+  list-style: none;
 }
 
 .container{
@@ -27,7 +29,9 @@
   padding-bottom: 10px;
   border-bottom: 3px solid #222;
 }
-
+ul li a {
+  color: white;
+}
 .container .heading h3 span{
   font-weight: 100;
 }

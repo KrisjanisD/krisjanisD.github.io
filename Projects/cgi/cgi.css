@@ -6,6 +6,8 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
   background-color: #222;
+  text-decoration: none;
+  list-style: none;
 }
 
 .container{
@@ -15,6 +17,9 @@
   align-items: center;
   text-align: center;
   margin: 40px 150px 0 150px;
+}
+ul li a {
+  color: white;
 }
 
 .container .heading{
