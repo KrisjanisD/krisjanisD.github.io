@@ -1,5 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:600;);
-
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   background-color: #212121;
@@ -38,7 +45,16 @@ body {
   color: white;
 }
 
-
+body ul li a {
+  align-items: start;
+  display: block;
+  color: #fefefe;
+  font-size: 20px;
+  padding: 10px 25px;
+  border-radius: 50px;
+  transition: 0.2s;
+  margin: 0 5px;
+}
 
 
 .container img {
