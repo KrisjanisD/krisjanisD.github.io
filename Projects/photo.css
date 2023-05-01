@@ -16,6 +16,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  background-position: 1px;
 }
 
 .container {
@@ -61,7 +62,7 @@ body ul li a {
   backface-visibility: hidden;
   max-width: 100%;
   vertical-align: top;
-  border-radius: 25px;
+  border-radius: 10px;
 }
 
 .container figcaption {
