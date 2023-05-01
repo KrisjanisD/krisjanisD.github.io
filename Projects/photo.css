@@ -61,6 +61,7 @@ body ul li a {
   backface-visibility: hidden;
   max-width: 100%;
   vertical-align: top;
+  border-radius: 25px;
 }
 
 .container figcaption {
