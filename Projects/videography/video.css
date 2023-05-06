@@ -5,6 +5,7 @@
     background-color: #222;
     text-decoration: none;
     list-style: none;
+    text-align: center;
   }
 
   iframe {
@@ -23,8 +24,8 @@
     text-decoration: none;
     list-style: none;
     color: white;
-    margin-left: 940px;
     font-size: 30;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
   }
   
